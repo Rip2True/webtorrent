@@ -75,7 +75,8 @@
     "uint8-util": "^2.2.5",
     "unordered-array-remove": "^1.0.2",
     "ut_metadata": "^4.0.3",
-    "ut_pex": "^4.0.4"
+    "ut_pex": "^4.0.4",
+    "webtorrent": "^2.4.1"
   },
   "devDependencies": {
     "@babel/core": "7.24.7",
